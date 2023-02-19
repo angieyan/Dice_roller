@@ -1,16 +1,7 @@
 # dice_roller
 
-Dice whenever you need.
+Dice whenever you need. This is an Android, iOS and Web application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/18585836/219966784-d964e2f1-4997-473c-b6e0-439a969a98a4.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
